@@ -1,0 +1,22 @@
+#cards {
+    text-align: center;
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 134px;
+}
+#tables {
+    text-align: center;
+    padding: 25px 350px;
+    border-left: 200px;
+    border-right: 200px;
+
+}
+#make_move {
+    padding-left: 650px;
+}
+#monster_cards {
+    text-align: center;
+    padding-left: 295px;
+    display: flex;
+}
